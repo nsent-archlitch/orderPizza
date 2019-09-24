@@ -7,7 +7,7 @@ import org.junit.Test;
 
 
 
-public class OrderPizza extends TestBase {
+public abstract class OrderPizza extends TestBase {
 
 
     @Before
